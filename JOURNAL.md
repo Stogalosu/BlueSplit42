@@ -17,3 +17,11 @@ I started by installing KiCad and creating the schematic for the PCB. By followi
 ![image_2025-10-16_220941248.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--d9266ba595e537bcaa255b5db55223c09b82f7ce/image_2025-10-16_220941248.png)
   
 
+## 10/17/2025 - Started work on the PCB layout  
+
+I started the PCB layout by arranging the switch footprints in KiCad, simply following the schematic I made yesterday.
+However, the process was not completely smooth, at first I did the right side wrong and had to redo it, then when I wanted to arrange the thumb keys i had trouble rotating them.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--48b8624371e4c8de887778117dd4126812a6f79a/image.png)
+  
+
