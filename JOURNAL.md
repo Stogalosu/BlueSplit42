@@ -30,6 +30,6 @@ However, the process was not completely smooth, at first I did the right side wr
 Today, I arranged the diodes for each switch, then I routed the whole PCB. I also placed some footprints for the pins that connect to the battery and the mounting holes.
 This time, i had trouble because initially I routed the pinholes to the microcontroller instead of the hotswap sockets, so I had to redo most of the wiring. Also, rotating the thumb keys almost gave me a headache again.
 
-![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--c494d6da81787b856f61e57a9cc03db5ee290252/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--e06d546e4303a83af9303e20117c90fb69eb9105/image.png)
   
 
