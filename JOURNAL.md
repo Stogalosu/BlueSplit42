@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Custom Split Keyboard**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/553).
-
-
 ## 10/16/2025 - Created the schematic  
 
 I started by installing KiCad and creating the schematic for the PCB. By following the guide, I added buttons according to my own layout, along with diodes for each one and a microcontroller. I had some trouble with the pieces library, but I figured it out.
@@ -31,5 +27,12 @@ Today, I arranged the diodes for each switch, then I routed the whole PCB. I als
 This time, i had trouble because initially I routed the pinholes to the microcontroller instead of the hotswap sockets, so I had to redo most of the wiring. Also, rotating the thumb keys almost gave me a headache again.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--e06d546e4303a83af9303e20117c90fb69eb9105/image.png)
+  
+
+## 10/25/2025 - Started designing the case  
+
+I started designing the case for the keyboard in Fusion 360. Fortunately, I already know how to use Fusion, so it isn't that hard. I still have to figure out how to hold the whole thing together.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ1NywicHVyIjoiYmxvYl9pZCJ9fQ==--53976cfa6cf471cc2fa04640288d351304ad54f3/image.png)
   
 
