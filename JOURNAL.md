@@ -36,3 +36,10 @@ I started designing the case for the keyboard in Fusion 360. Fortunately, I alre
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ1NywicHVyIjoiYmxvYl9pZCJ9fQ==--53976cfa6cf471cc2fa04640288d351304ad54f3/image.png)
   
 
+## 10/26/2025 - Redid the PCB  
+
+I realized that the switch sockets were on the wrong side, so I had to redesign the PCB. This time, I used a autorouting plugin to make the wiring quicker. I also made a panelized version, to check if it's cheaper this way (it isn't). While I was at it, I also fixed some outlines that weren't at the right angles.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--237b8eabfb5d98dde8d8863fbf51bdaff4a9b969/image.png)
+  
+
