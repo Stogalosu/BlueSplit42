@@ -43,3 +43,11 @@ I realized that the switch sockets were on the wrong side, so I had to redesign 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--237b8eabfb5d98dde8d8863fbf51bdaff4a9b969/image.png)
   
 
+## 10/30/2025 - Finished the case  
+
+After redesigning the PCB, I completely redesigned the case as well. It has two parts: the bottom one, which holds the battery and has the opening for the USB C port and the top one, that also acts as a mount plate for the switches. Everything is held together by 3 M3 screws. Initially, I used M2 screws, but I realized the threads were kind of small to be 3d printed. I also added an incline to the case for comfort.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjY5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--cccedc3c89538cc247c3c568f1de86b059895f7f/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--844e379c8ec3c3b48180b789d112be8c8cae0c86/image.png)
+  
+
