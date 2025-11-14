@@ -6,7 +6,9 @@ It will have linear switches and pom jelly keycaps, because I've always wanted t
 # But Why?
 Simply because i love mechanical keyboards. I just love them. Plus, this event is a great way to get a keyboard that would otherwise be very expensive for my budget. Did I mention I love keyboards?
 
-<<insert screenshot of 3d render>> (i didn't do it yet)
+**3D Render**
+
+<img width="1517" height="849" alt="image" src="https://github.com/user-attachments/assets/90bdac7e-bd87-4bdf-ab9d-33dd9c1cf5ba" />
 
 **Left PCB**
 
