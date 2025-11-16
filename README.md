@@ -1,9 +1,9 @@
 # Bluesplit42
-# What?(description)
+## What?(description)
 Bluesplit42 is a split custom mechanical keyboard built entirely by me, except for the switches and keycaps. It will be a 40% layout with 42 keys, thus the 42 in the name.
-It will have linear switches and pom jelly keycaps, because I've always wanted those but they were too expensive (now they're on sale).
+It will have linear switches and pom jelly keycaps, because I've always wanted those but they were too expensive (now they're on sale). For the firmware, I'm using ZMK
 
-# But Why?
+## But Why?
 Simply because i love mechanical keyboards. I just love them. Plus, this event is a great way to get a keyboard that would otherwise be very expensive for my budget. Did I mention I love keyboards?
 
 **3D Render**
@@ -30,4 +30,16 @@ Simply because i love mechanical keyboards. I just love them. Plus, this event i
 
 <img width="986" height="571" alt="Screenshot 2025-11-10 201950" src="https://github.com/user-attachments/assets/3bc5610f-827b-4306-8a37-4f9ee323949c" />
 
-Bom table goes here (didn't so that either) 
+**Bom table**
+|Name                         |Unit Price|Shipping|Amount|Total Cost|Notes                              |Link                                                 |
+|-----------------------------|----------|--------|------|----------|-----------------------------------|-----------------------------------------------------|
+|Case                         |$0.00     |$0.00   |1     |$0.00     |3D Printed in-house                |No link                                              |
+|Keycaps                      |$0.00     |$0.00   |1     |$0.00     |3D Printed in-house                |No link                                              |
+|Gateron Milky Yellow Switches|$15.46    |$0.00   |1     |$15.46    |50pcs                              |https://www.aliexpress.com/item/1005006425450443.html|
+|Hotswap Sockets              |$4.79     |$0.00   |1     |$4.79     |70pcs/Color: Type 1                |https://www.aliexpress.com/item/1005008954571807.html|
+|Durock Stabiliers            |$2.45     |$7.87   |2     |$12.77    |Color: V3-2u Teal                  |https://www.aliexpress.com/item/1005002192386317.html|
+|XIAO NRF52840 Microcontroller|$18.63    |$6.11   |2     |$43.37    |                                   |https://www.tme.eu/ro/details/seeed-102010448        |
+|1N4148W-7-F Diodes           |$0.08     |$0.00   |50    |$4.14     |They come with the microcontrollers|https://www.tme.eu/ro/en/details/1n4148w-e3-08/smd-universal-diodes/vishay|
+|AKY0386 Batteries            |$5.32     |$0.00   |2     |$10.64    |They come with the microcontrollers|https://www.tme.eu/ro/details/aky-lp403035           |
+|PCBs                         |$9.90     |$9.26   |2     |$29.06    |From JLCPCB                        |No link                                              |
+|Total Cost                   |          |        |      |$117.03   |                                   |                                                     |
