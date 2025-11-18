@@ -41,5 +41,5 @@ Simply because i love mechanical keyboards. I just love them. Plus, this event i
 |XIAO NRF52840 Microcontroller|$18.63    |$6.11   |2     |$43.37    |                                   |https://www.tme.eu/ro/details/seeed-102010448        |
 |1N4148W-7-F Diodes           |$0.08     |$0.00   |50    |$4.14     |They come with the microcontrollers|https://www.tme.eu/ro/en/details/1n4148w-e3-08/smd-universal-diodes/vishay|
 |AKY0386 Batteries            |$5.32     |$0.00   |2     |$10.64    |They come with the microcontrollers|https://www.tme.eu/ro/details/aky-lp403035           |
-|PCBs                         |$9.90     |$9.26   |2     |$29.06    |From JLCPCB                        |No link                                              |
-|Total Cost                   |          |        |      |$117.03   |                                   |                                                     |
+|PCBs                         |$20.00    |$7.40   |1     |$27.40    |From JLCPCB                        |No link                                              |
+|Total Cost                   |          |        |      |$118.57   |                                   |                                                     |
