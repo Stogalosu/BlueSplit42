@@ -18,7 +18,7 @@ Simply because i love mechanical keyboards. I just love them. Plus, this event i
 
 <img width="865" height="638" alt="Screenshot 2025-11-10 201432" src="https://github.com/user-attachments/assets/40b3e83d-f416-43d3-8c9d-01dd357d68d6" />
 
-**Full PCB with mousebites** (this is not in my cart because it's actually more expensive than buying the 2 pcbs separately, by a few cents, but still)
+**Full PCB with mousebites**
 
 <img width="1099" height="644" alt="Screenshot 2025-11-10 201551" src="https://github.com/user-attachments/assets/b44624ad-f704-4e88-a265-f2fb04ff2132" />
 
@@ -41,5 +41,5 @@ Simply because i love mechanical keyboards. I just love them. Plus, this event i
 |XIAO NRF52840 Microcontroller|$18.63    |$6.11   |2     |$43.37    |                                   |https://www.tme.eu/ro/details/seeed-102010448        |
 |1N4148W-7-F Diodes           |$0.08     |$0.00   |50    |$4.14     |They come with the microcontrollers|https://www.tme.eu/ro/en/details/1n4148w-e3-08/smd-universal-diodes/vishay|
 |AKY0386 Batteries            |$5.32     |$0.00   |2     |$10.64    |They come with the microcontrollers|https://www.tme.eu/ro/details/aky-lp403035           |
-|PCBs                         |$20.00    |$7.40   |1     |$27.40    |From JLCPCB                        |No link                                              |
-|Total Cost                   |          |        |      |$118.57   |                                   |                                                     |
+|PCB                          |$20.16    |$7.55   |1     |$27.71    |From JLCPCB                        |No link                                              |
+|Total Cost                   |          |        |      |$118.88   |                                   |                                                     |
